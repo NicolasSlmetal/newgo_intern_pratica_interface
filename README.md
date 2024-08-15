@@ -1,0 +1,1 @@
+# newgo_intern_pratica_interface
